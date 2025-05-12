@@ -1,0 +1,9 @@
+{
+    "WEBHOOK_URL": "https://ptb.discord.com/api/webhooks/your_webhook_id/your_webhook_token",
+    "DISCORD_API_BASE": "https://discord.com/api/v10",
+    "GUILD_ID": "your_guild_id",
+    "BOT_TOKEN": "your_bot_token",
+    "URL": "https://fr-wiki.metin2.gameforge.com/index.php/Calendrier_%C3%A9v%C3%A9nement",
+    "LOCAL_FILE": "last_calendar.txt",
+    "YEAR": 2025
+}
